@@ -1,35 +1,52 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Rabab Al Fahid
+- Email: fahid.2@wright.edu
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here Profile](FIXTHISURL-https://github.com/your_username)
+1. [your_github_username_here Profile]- https://github.com/Rababaf 
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| help    | man         | 
+Gives a detailed documentation about all other command line usage or utilities |
+
+| Get-Location | pwd    |
+Prints the current working directory in the terminal 
+
+| Get-ChildItem | ls    |        
+Lists the items like files or directories in the current working directory 
+
+| mkdir   | mkdir       |        
+Creates a new directory and the command line is the same for all operating systems
+
+| Set-Location | cd     |        
+Sets the working location or more like changes the current directory
+
+| New-Item | touch      |        
+Creates new files or directories
+
+| Move-Item | mv        |        
+Moves files or directories or rename files
+
+| Copy-Item | cp        |        
+Copy files and directories 
+| Remove-Item | rm      |    
+Remove files and directories    
+| notepad.exe | vim     |        
+A text editor used to write down notes 
 
 ## Part 3 - Command Line Navigation
 
 My OS is:
-- [x] Windows
+- [] Windows
 - [] Linux
-- [] Mac
+- [x] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: Terminal MacOS
 
 ### Navigating My OS on the Command Line
 
